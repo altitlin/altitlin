@@ -9,7 +9,7 @@
 ### 🤝 Connect with me:
 
 [<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColorfff" />][instagram]
-[<img alt="vk" src="https://img.shields.io/badge/instagram-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
+[<img alt="vk" src="https://img.shields.io/badge/vk-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
 
 
 [instagram]: https://instagram.com/__sashka.titov__
