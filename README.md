@@ -34,7 +34,7 @@
 <img alt="git" src="https://img.shields.io/badge/git-f14e32.svg?&style=flat&logo=git&logoColor=fff1" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-2b3a42.svg?&style=flat&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-f96424.svg?&style=flat&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="gerrit" src="https://img.shields.io/badge/git-ffaaaa.svg?&style=flat&logo=git&logoColor=fff1" />&nbsp;
+<img alt="gerrit" src="https://img.shields.io/badge/gerrit-ffaaaa.svg?&style=flat&logo=gerrit&logoColor=fff1" />&nbsp;
 <img alt="jira" src="https://img.shields.io/badge/jira-263455.svg?&style=flat&logo=jira&logoColor=fff" />&nbsp;
 <img alt="trello" src="https://img.shields.io/badge/trello-0065ff.svg?&style=flat&logo=trello&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=flat&logo=visual-studio-code&logoColor=fff" />&nbsp;
