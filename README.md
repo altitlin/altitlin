@@ -1,18 +1,10 @@
 ### Hi everybody, I'm Alex 👋
 
-## I'm a developer
+## I'm a Middle Software Engineer
 
-- 📍 I'm from Russia, Ryazan
-- 💻 2+ Years Experience in Front-End Development
-- 🧑‍💻 Front-End Enthusiast
+I had an experience as a Team Lead and I'm in charge of reviewing my team's PR and keeping track of and structuring various tasks on the project. I've been in the IT industry for 3-4 years. I started as a student Software Engineer at EPAM while I learned from Ryazan State University of the name S. A. Esenina. Throughout my career I've gained a lot of valuable experience in the following
 
-### 🤝 Connect with me:
-
-[<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColorfff" />][instagram]
-[<img alt="vk" src="https://img.shields.io/badge/vkontakte-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
-[<img alt="telegram" src="https://img.shields.io/badge/telegram-4995be.svg?&style=for-the-badge&logo=telegram&logoColorfff" />][telegram]
-
-### 💻 Tech Stack:
+### 💻 JavaScript libraries and frameworks:
 
 <img alt="react" src="https://img.shields.io/badge/react-61dafb.svg?&style=flat&logo=react&logoColor=fff" />&nbsp;
 <img alt="redux" src="https://img.shields.io/badge/redux-1c1e21.svg?&style=flat&logo=redux&logoColor=fff" />&nbsp;
@@ -38,6 +30,12 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-263455.svg?&style=flat&logo=jira&logoColor=fff" />&nbsp;
 <img alt="trello" src="https://img.shields.io/badge/trello-0065ff.svg?&style=flat&logo=trello&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=flat&logo=visual-studio-code&logoColor=fff" />&nbsp;
+
+### 🤝 Connect with me:
+
+[<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColorfff" />][instagram]
+[<img alt="vk" src="https://img.shields.io/badge/vkontakte-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
+[<img alt="telegram" src="https://img.shields.io/badge/telegram-4995be.svg?&style=for-the-badge&logo=telegram&logoColorfff" />][telegram]
 
 
 [instagram]: https://instagram.com/__sashka.titov__
