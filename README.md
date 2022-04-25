@@ -56,7 +56,7 @@
 [<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColorfff" />][instagram]
 [<img alt="vk" src="https://img.shields.io/badge/vkontakte-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
 [<img alt="telegram" src="https://img.shields.io/badge/telegram-4995be.svg?&style=for-the-badge&logo=telegram&logoColorfff" />][telegram]
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-0966c2.svg?&style=for-the-badge&logo=linkedin&logoColorfff" />][linkedin]
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColorfff" />][linkedin]
 
 [instagram]: https://instagram.com/__sashka.titov__
 [vk]: https://vk.com/al.titlin
