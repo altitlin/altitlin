@@ -68,7 +68,7 @@
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColorfff" />][linkedin]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=altitlin&theme=blue-green" alt="altitlin" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altitlin&theme=blue-green" alt="altitlin" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altitlin&theme=blue-green" alt="altitlin" /></p>
 
 [instagram]: https://instagram.com/__sashka.titov__
 [vk]: https://vk.com/al.titlin
