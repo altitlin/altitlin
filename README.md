@@ -12,33 +12,42 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexander-titov-a116191b4/](https://www.linkedin.com/in/alexander-titov-a116191b4/)
 
-### JavaScript libraries and frameworks:
+### Programming Languages
 
-<img alt="javascript" src="https://img.shields.io/badge/javascript-f7e017.svg?&style=flat&logo=javascript&logoColor=fff" />&nbsp;
-<img alt="react" src="https://img.shields.io/badge/react-61dafb.svg?&style=flat&logo=react&logoColor=fff" />&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-1c1e21.svg?&style=flat&logo=redux&logoColor=fff" />&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
+
+### Frontend Development
+
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;
+<img alt="webpack" src="https://img.shields.io/badge/webpack-1f71b3.svg?&style=flat&logo=webpack&logoColor=fff" />&nbsp;
+<img alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
 <img alt="redux-saga" src="https://img.shields.io/badge/redux saga-86d46b.svg?&style=falt&logo=redux-saga&logoColor=fff" />&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-3178c6.svg?&style=flat&logo=typescript&logoColor=fff" />&nbsp;
-<img alt="node.js" src="https://img.shields.io/badge/node.js-84ba64.svg?&style=flat&logo=node.js&logoColor=fff" />&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-618f4c.svg?&style=flat&logo=mongodb&logoColor=fff1" />&nbsp;
 
-### Unit testing:
+### Backend Development
+
+<img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
+<img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
+<img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp;
+
+### Mobile App Development
+
+<img alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+
+### Testing
 
 <img alt="jest" src="https://img.shields.io/badge/jest-15c213.svg?&style=flat&logo=jest&logoColor=fff1" />&nbsp;
 <img alt="enzyme" src="https://img.shields.io/badge/enzyme-fe595d.svg?&style=flat&logo=enzyme&logoColor=fff1" />&nbsp;
 
-### Core UX skills and technologies/tools:
-
-<img alt="html5" src="https://img.shields.io/badge/html-e54b20.svg?&style=flat&logo=html5&logoColor=fff" />&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-264de4.svg?&style=flat&logo=css3&logoColor=fff" />&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/sass-bf4080.svg?&style=flat&logo=sass&logoColor=fff" />&nbsp;
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7952b3.svg?&style=flat&logo=bootstrap&logoColor=fff" />&nbsp;
-<img alt="webpack" src="https://img.shields.io/badge/webpack-1f71b3.svg?&style=flat&logo=webpack&logoColor=fff" />&nbsp;
-
-### CI/CD:
+### Devops
 
 <img alt="jenkins" src="https://img.shields.io/badge/jenkins-61dafb.svg?&style=flat&logo=jenkins&logoColor=fff1" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2b3a42.svg?&style=flat&logo=docker&logoColor=fff" />&nbsp;
+<img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
 
 ### 🛠 Tools:
 
@@ -50,6 +59,9 @@
 <img alt="trello" src="https://img.shields.io/badge/trello-0065ff.svg?&style=flat&logo=trello&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=flat&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-f24f1f.svg?&style=flat&logo=figma&logoColor=fff" />&nbsp;
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=altitlin&theme=blue-green" alt="altitlin" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=altitlin&theme=blue-green" alt="altitlin" /></p>
 
 ### 🤝 Connect with me:
 
