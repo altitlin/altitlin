@@ -49,7 +49,7 @@
 <img alt="docker" src="https://img.shields.io/badge/docker-2b3a42.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
 
-### 🛠 Tools:
+### Tools:
 
 <img alt="git" src="https://img.shields.io/badge/git-1f71b3.svg?&style=for-the-badge&logo=git&logoColor=fff1" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-2b3a42.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
