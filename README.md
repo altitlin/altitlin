@@ -42,7 +42,7 @@
 
 ### 🛠 Tools:
 
-<img alt="git" src="https://img.shields.io/badge/git-f14e32.svg?&style=flat&logo=git&logoColor=fff1" />&nbsp;
+<img alt="git" src="https://img.shields.io/badge/git-1f71b3.svg?&style=flat&logo=git&logoColor=fff1" />&nbsp;
 <img alt="github" src="https://img.shields.io/badge/github-2b3a42.svg?&style=flat&logo=github&logoColor=fff" />&nbsp;
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-f96424.svg?&style=flat&logo=gitlab&logoColor=fff" />&nbsp;
 <img alt="gerrit" src="https://img.shields.io/badge/gerrit-ffaaaa.svg?&style=flat&logo=gerrit&logoColor=fff1" />&nbsp;
