@@ -49,7 +49,7 @@
 <img alt="jira" src="https://img.shields.io/badge/jira-263455.svg?&style=flat&logo=jira&logoColor=fff" />&nbsp;
 <img alt="trello" src="https://img.shields.io/badge/trello-0065ff.svg?&style=flat&logo=trello&logoColor=fff" />&nbsp;
 <img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=flat&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-0066b8.svg?&style=flat&logo=figma&logoColor=fff" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-f24f1f.svg?&style=flat&logo=figma&logoColor=fff" />&nbsp;
 
 ### 🤝 Connect with me:
 
