@@ -37,7 +37,7 @@
 
 ### CI/CD:
 
-<img alt="jenkins" src="https://img.shields.io/badge/jenkins-e54b20.svg?&style=flat&logo=jenkins&logoColor=fff1" />&nbsp;
+<img alt="jenkins" src="https://img.shields.io/badge/jenkins-61dafb.svg?&style=flat&logo=jenkins&logoColor=fff1" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2b3a42.svg?&style=flat&logo=docker&logoColor=fff" />&nbsp;
 
 ### 🛠 Tools:
