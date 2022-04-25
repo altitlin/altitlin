@@ -25,7 +25,7 @@
 ### Unit testing:
 
 <img alt="jest" src="https://img.shields.io/badge/jest-15c213.svg?&style=flat&logo=jest&logoColor=fff1" />&nbsp;
-<img alt="enzyme" src="https://img.shields.io/badge/enzyme-fe595d.svg?&style=flat&logo=jest&logoColor=fff1" />&nbsp;
+<img alt="enzyme" src="https://img.shields.io/badge/enzyme-fe595d.svg?&style=flat&logo=enzyme&logoColor=fff1" />&nbsp;
 
 ### Core UX skills and technologies/tools:
 
