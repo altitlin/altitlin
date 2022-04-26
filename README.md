@@ -1,6 +1,6 @@
 ### Hi everybody, I'm Alex 👋
 
-## I'm a Middle Software Engineer
+## I'm a Software Engineer
 
 - 👯 I’m currenlty looking for a new job
 
