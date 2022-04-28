@@ -1,6 +1,6 @@
 ### Hi everybody, I'm Alex 👋
 
-## I'm a Software Engineer
+## I'm a JavaScirpt Software Engineer
 
 - 👯 I’m currenlty looking for a new job
 
