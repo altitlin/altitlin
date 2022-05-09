@@ -60,7 +60,7 @@
 <img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-f24f1f.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 
-### 🤝 Connect with me:
+### 🤝 Connect with me
 
 [<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColorfff" />][instagram]
 [<img alt="vk" src="https://img.shields.io/badge/vkontakte-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
