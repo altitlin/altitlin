@@ -39,7 +39,7 @@
 
 <img alt="jest" src="https://img.shields.io/badge/jest-15c213.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
 <img alt="enzyme" src="https://img.shields.io/badge/enzyme-fe595d.svg?&style=for-the-badge&logo=enzyme&logoColor=white" />&nbsp;
-<img alt="react-testing-library" src="https://img.shields.io/badge/testing-library-D74C50.svg?&style=for-the-badge&logo=testing-library&logoColor=white" />&nbsp;
+<img alt="testing-library" src="https://img.shields.io/badge/testing-library-D74C50.svg?&style=for-the-badge&logo=testing-library&logoColor=white" />&nbsp;
 
 ### Devops
 
