@@ -33,37 +33,38 @@
 <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
 <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp;
-<img alt="nestjs" src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge" />&nbsp;
+<img alt="nestjs" src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white" />&nbsp;
 
 ### Testing
 
-<img alt="jest" src="https://img.shields.io/badge/jest-15c213.svg?&style=for-the-badge&logo=jest&logoColor=fff1" />&nbsp;
-<img alt="enzyme" src="https://img.shields.io/badge/enzyme-fe595d.svg?&style=for-the-badge&logo=enzyme&logoColor=fff1" />&nbsp;
+<img alt="jest" src="https://img.shields.io/badge/jest-15c213.svg?&style=for-the-badge&logo=jest&logoColor=white" />&nbsp;
+<img alt="enzyme" src="https://img.shields.io/badge/enzyme-fe595d.svg?&style=for-the-badge&logo=enzyme&logoColor=white" />&nbsp;
+<img alt="react-testing-library" src="https://img.shields.io/badge/react-testing-library-D74C50.svg?&style=for-the-badge&logo=react-testing-library&logoColor=white" />&nbsp;
 
 ### Devops
 
-<img alt="jenkins" src="https://img.shields.io/badge/jenkins-61dafb.svg?&style=for-the-badge&logo=jenkins&logoColor=fff1" />&nbsp;
-<img alt="docker" src="https://img.shields.io/badge/docker-2b3a42.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
+<img alt="jenkins" src="https://img.shields.io/badge/jenkins-61dafb.svg?&style=for-the-badge&logo=jenkins&logoColor=white" />&nbsp;
+<img alt="docker" src="https://img.shields.io/badge/docker-2b3a42.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
 <img alt="github actions" src="https://img.shields.io/badge/GitHubActions-430098?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
 
 ### Tools
 
-<img alt="git" src="https://img.shields.io/badge/git-1f71b3.svg?&style=for-the-badge&logo=git&logoColor=fff1" />&nbsp;
-<img alt="github" src="https://img.shields.io/badge/github-2b3a42.svg?&style=for-the-badge&logo=github&logoColor=fff" />&nbsp;
-<img alt="gitlab" src="https://img.shields.io/badge/gitlab-f96424.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
-<img alt="gerrit" src="https://img.shields.io/badge/gerrit-ffaaaa.svg?&style=for-the-badge&logo=gerrit&logoColor=fff1" />&nbsp;
-<img alt="jira" src="https://img.shields.io/badge/jira-263455.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
-<img alt="trello" src="https://img.shields.io/badge/trello-0065ff.svg?&style=for-the-badge&logo=trello&logoColor=fff" />&nbsp;
-<img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=fff" />&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-f24f1f.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
+<img alt="git" src="https://img.shields.io/badge/git-1f71b3.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;
+<img alt="github" src="https://img.shields.io/badge/github-2b3a42.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;
+<img alt="gitlab" src="https://img.shields.io/badge/gitlab-f96424.svg?&style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp;
+<img alt="gerrit" src="https://img.shields.io/badge/gerrit-ffaaaa.svg?&style=for-the-badge&logo=gerrit&logoColor=white" />&nbsp;
+<img alt="jira" src="https://img.shields.io/badge/jira-263455.svg?&style=for-the-badge&logo=jira&logoColor=white" />&nbsp;
+<img alt="trello" src="https://img.shields.io/badge/trello-0065ff.svg?&style=for-the-badge&logo=trello&logoColor=white" />&nbsp;
+<img alt="vs code" src="https://img.shields.io/badge/vs code-0066b8.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-f24f1f.svg?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;
 
 ### 🤝 Connect with me
 
-[<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColorfff" />][instagram]
-[<img alt="vk" src="https://img.shields.io/badge/vkontakte-1a4b78.svg?&style=for-the-badge&logo=vk&logoColorfff" />][vk]
-[<img alt="telegram" src="https://img.shields.io/badge/telegram-4995be.svg?&style=for-the-badge&logo=telegram&logoColorfff" />][telegram]
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColorfff" />][linkedin]
+[<img alt="instagram" src="https://img.shields.io/badge/instagram-8134af.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img alt="vk" src="https://img.shields.io/badge/vkontakte-1a4b78.svg?&style=for-the-badge&logo=vk&logoColor=white" />][vk]
+[<img alt="telegram" src="https://img.shields.io/badge/telegram-4995be.svg?&style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-0077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [instagram]: https://instagram.com/__sashka.titov__
 [vk]: https://vk.com/al.titlin
