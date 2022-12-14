@@ -33,6 +33,7 @@
 <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;
 <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
 <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />&nbsp;
+<img alt="nestjs" src="https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge" />&nbsp;
 
 ### Mobile App Development
 
@@ -48,6 +49,7 @@
 <img alt="jenkins" src="https://img.shields.io/badge/jenkins-61dafb.svg?&style=for-the-badge&logo=jenkins&logoColor=fff1" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2b3a42.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
 <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
+<img alt="github actions" src="https://img.shields.io/badge/GitHubActions-430098?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;
 
 ### Tools
 
