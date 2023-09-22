@@ -1,10 +1,6 @@
 ### Hi everybody, I'm Alex 👋
 
-## I'm a JavaScirpt Software Engineer
-
-- 👯 I’m currenlty looking for a new job
-
-- 🌱 I’m currently learning **Node.js, Express.js, GraphQL, Nest.js and everything about backend**
+## I'm JavaScirpt Software Engineer
 
 - 💬 Ask me about **JavaScript, React, TypeScript**
 
